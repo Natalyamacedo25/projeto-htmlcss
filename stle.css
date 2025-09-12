@@ -1,0 +1,30 @@
+/*estilo geral da pagina */
+body{
+    background-color: aqua; /*cor do fumdo da pagina*/
+    font-family: Arial, Helvetica, sans-serif; /*fonte do texto*/
+    color: blue; /* espaço interno da pagina*/ 
+    padding: 40px; /* espaço interno da pagina */
+}
+
+
+/* Titulo Principal */
+h1{
+    color: blueviolet; /*cor roxa */
+    font-size: 10em; /* tamanho do texto */
+    margin-bottom: 20px; /* espaço abaixo do titulo*/
+}
+
+/*Subititulo*/
+h2{
+    color: brown;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* paragrafo */
+p{
+    font-size: 1.1em;
+    line-height: 1.6; /* Espaço entre linhas */
+    margin-bottom: 20px;
+}
+/* LIsta nção ordenada */
